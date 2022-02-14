@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @strohkamp / Nils Jannik Heukamp, Dipl.-Psych.
+- 👀 I’m interested in ... Neuroscience
+- 🌱 I’m currently learning Python, Scikitlearn, Nilearn, Jupyter & Elyra
